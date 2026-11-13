@@ -67,4 +67,4 @@ g++ soal4/hash_table.cpp -o hash && ./hash
 > Windows: ganti `./nilai` menjadi `nilai.exe`, dst. Bisa juga langsung Run di VS Code / Dev-C++.
 
 ##  Video Penjelasan
-udh 3x upload gabisa" T_T
+https://www.youtube.com/watch?v=R7PzQnSX2pM
